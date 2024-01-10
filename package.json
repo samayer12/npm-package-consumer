@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@samayer12/npm-package-demo": "latest"
+  }
+}
