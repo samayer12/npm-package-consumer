@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@samayer12/npm-package-demo": "latest"
+    "@samayer12/npm-package-demo": "0.0.7"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
